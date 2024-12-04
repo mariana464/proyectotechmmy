@@ -1,0 +1,13 @@
+h1{
+    align-self: center;
+    height: 80px;
+    background: #ca0000;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    
+    align-content: center;
+
+}
